@@ -1,0 +1,42 @@
+# main links
+main:
+  - title: "About Us"
+    sublinks:
+      - title: "About Metro DC DSA"
+        url: /about-us/
+      - title: "Our Structure"
+        url: /our-structure
+      - title: "Bylaws"
+        url: /our-bylaws
+      - title: "Our Structure"
+        url: /our-structure
+      - title: "Public Statements*"
+        url: /categories/#public-statements
+      - title: "Minutes and Historicals*"
+        url: /categories/#minutes-and-historicals
+  - title: "Get Involved"
+    sublinks:
+      - title: "Structure and Campaigns"
+        url: /structure-and-campaigns
+      - title: "Organize With Us"
+        url: /organize-with-us
+      - title: "Endorsements"
+        url: /endorsements
+      - title: "Calendar"
+        url: "https://www.meetup.com/mdcdsa/"
+  - title: "The Washington Socialist"
+    sublinks:
+      - title: "Submissions"
+        url: /washington-socialist
+      - title: "Subscribe*"
+        url: /
+  - title: "Member Resources"
+    sublinks:
+      - title: "Red Desk"
+        url: /member-resources
+      - title: "Harassment and Grievance Policy"
+        url: /harassment-and-grievance-policy
+  - title: "Join/Donate"
+    url: /join-donate
+  - title: "Contact Us*"
+    url: /contact-us
