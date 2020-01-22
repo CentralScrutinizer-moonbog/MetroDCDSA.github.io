@@ -10,9 +10,9 @@ main:
         url: /our-bylaws
       - title: "Our Structure"
         url: /our-structure
-      - title: "Public Statements*"
+      - title: "Public Statements"
         url: /categories/#public-statements
-      - title: "Minutes and Historicals*"
+      - title: "Minutes and Historicals"
         url: /categories/#minutes-and-historicals
   - title: "Get Involved"
     sublinks:
