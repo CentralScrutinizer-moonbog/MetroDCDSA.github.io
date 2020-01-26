@@ -6,10 +6,10 @@ toc: true
 ---
 
 ## Chapter Structure and Campaigns
-## Committees
+### Committees
 Metro DC DSA has five standing committees. Committees are intended to oversee the chapter’s health and function, and to facilitate our other structures — working groups and caucuses — to do the work they’re passionate about. Read the formal description of each committee in our Chapter Bylaws.
 
-## Steering Committee
+#### Steering Committee
 Liz G. (Chair), Zach E. (Secretary), Brian W. (Treasurer), Cassandra C. (At-Large), Chip G. (At-Large), Stu K. (At-Large), Irene K. (At-Large), Gabriel R. (At-Large), Nate S. (At-Large), Danny T. (At-Large), Tim Z. (At-Large)
 
 Email: steering-all@mdcdsa.org
@@ -18,14 +18,14 @@ Slack: #steering for discussion, meeting agendas, and updates; #steering-votes f
 
 If you would like to submit an item for a future Steering Committee agenda, please create a Red Desk ticket and select help topic: “Steering Meeting Agenda Item.” Steering Committee minutes are posted to our Minutes and Historicals page as they are completed.
 
-## Administrative Committee
+#### Administrative Committee
 Zach E. (Co-Chair), Brian W. (Co-Chair)
 
 Email: admin@mdcdsa.org
 
 Committee discussion takes place on a private channel that can be joined by invitation if you would like to help with AdCom work. If you have administrative questions or need assistance, let us know in #helpdesk.
 
-## Endorsements Committee
+#### Endorsements Committee
 Caleb-Michael F. (Co-Chair), vacant (Co-Chair)
 
 Email: endorsements@mdcdsa.org
@@ -34,7 +34,7 @@ Slack: #endorsement-committee
 
 Charged with all communications and processing of political candidates who seek the Chapter’s endorsement. An administrative body that remains neutral on ideological motivation of candidates and conducts the administrative tasks of processing all endorsement applications, regardless of political party or office sought.
 
-## Finance Committee
+#### Finance Committee
 Brian W. (Chair)
 
 Email: finance@mdcdsa.org
@@ -43,10 +43,10 @@ Slack: #finance
 
 We’re actively looking to build out this committee! If you have experience or interest in budgeting, financial organization or reporting, fundraising, compliance, bookkeeping, or regular old spreadsheeting, please get in touch!
 
-## Compliance Subcommittee
+#### Compliance Subcommittee
 Responsible for providing the necessary legal and financial oversight our electoral work requires for the chapter to stay in compliance with DC, Maryland, and Virginia campaign finance codes across election cycles.
 
-## Internal Organizing Committee
+#### Internal Organizing Committee
 Brandon H. (Co-Chair), Luke R. (Co-Chair)
 
 Email: ioc@mdcdsa.org
