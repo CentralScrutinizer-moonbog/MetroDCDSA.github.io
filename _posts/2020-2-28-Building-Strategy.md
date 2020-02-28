@@ -4,7 +4,7 @@ categories:
   - Washington Socialist
 tags:
   - Article
-author: Gary Zotoli
+author: Gary Zottoli
 ---
 <p>The grassroots activism and organizing that has been powering the Sanders campaign is succeeding. Elite business and political interests are sweating at the inability of Democratic “moderates” to coordinate a message that resonates with the diverse interests that the Party has claimed to historically represent. We are bearing witness to the Peaceful Revolution so many have always pined for: that prophesied young, multi-ethnic, citizen-driven coalition that will change government for the better. Politicos who cosplay as Seers have begun to realize that their sense of political reality is deeply disconnected with the people they claim to represent. The coalition built around the Sanders Campaign is preparing to seize the Democrat’s artillery and lead a charge against Trumps’s Chaos Dynasty.
 </p>
