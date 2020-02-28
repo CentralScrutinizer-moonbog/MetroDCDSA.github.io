@@ -6,8 +6,6 @@ tags:
   - Article
 author: Ben Ross
 ---
-<p><strong>Hogan’s public-private highway scam riddled with loopholes and lies</strong>
-</p>
 <p><strong><em>The Washington Socialist</em></strong><strong> &lt;&gt; March 2020</strong>
 </p>
 <p><em>Compiled by Woody Woodruff</em>

@@ -6,8 +6,6 @@ tags:
   - Article
 author: Bill Mosley
 ---
-<p><strong>Socialism in Practice:  A Handbook for Tomorrow </strong>
-</p>
 <p><strong><em>The Washington Socialist</em></strong><strong> &lt;&gt; March 2020</strong>
 </p>
 <p><em>By Bill Mosley</em>
