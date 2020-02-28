@@ -4,7 +4,7 @@ categories:
   - Chapter Update
 tags:
   - Update
-author: Brendan Greenlee
+author: 
 ---
 <h2 style="text-align: center;">Metro DC DSA's<br>Washington Socialist newsletter for February 2020<span></span>
 </h2>
