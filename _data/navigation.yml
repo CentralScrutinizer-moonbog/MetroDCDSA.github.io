@@ -10,9 +10,9 @@ main:
         url: /our-bylaws
       - title: "Our Structure"
         url: /our-structure
-      - title: "Public Statements*"
+      - title: "Public Statements"
         url: /categories/#public-statements
-      - title: "Minutes and Historicals*"
+      - title: "Minutes and Historicals"
         url: /categories/#minutes-and-historicals
   - title: "Get Involved"
     sublinks:
@@ -27,7 +27,7 @@ main:
   - title: "The Washington Socialist"
     sublinks:
       - title: "Submissions"
-        url: /washington-socialist
+        url: /categories/#washington-socialist
       - title: "Subscribe*"
         url: /
   - title: "Member Resources"
@@ -38,5 +38,5 @@ main:
         url: /harassment-and-grievance-policy
   - title: "Join/Donate"
     url: /join-donate
-  - title: "Contact Us*"
+  - title: "Contact Us"
     url: /contact-us
