@@ -1,7 +1,7 @@
 ---
 title: "Metro DC DSA Weekly Update for Friday, March 6, 2020"
 categories:
-  - Update
+  - Chapter Update
 tags:
   - Update
 author: MDC DSA
