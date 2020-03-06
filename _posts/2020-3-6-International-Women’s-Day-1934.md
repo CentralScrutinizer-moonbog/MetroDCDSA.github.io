@@ -1,10 +1,10 @@
 ---
-title: "Socialism in Practice:  A Handbook for Tomorrow"
+title: "International Women’s Day – 1934: Remembrance and History for Today"
 categories:
   - Washington Socialist
 tags:
   - Article
-author: Bill Mosley
+author: Kurt Stand
 ---
 <p><strong><em>The Washington Socialist &lt;&gt; </em></strong><strong>Weekly Update March 6 2020</strong>
 </p>
