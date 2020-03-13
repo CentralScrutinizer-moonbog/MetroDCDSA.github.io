@@ -58,7 +58,18 @@ author: MDC DSA
 <p>AGAIN:  Sunday March 22nd, Shaw neighborhood library WTD meeting room 1:30pm to 4:30pm
 </p>
 <p>-<em>-Jordan A</em>
-</p><hr>
+</p>
+<p><strong>Can’t make the 22<sup>nd</sup> or can’t wait?</strong>
+</p>
+<p><strong>Tuesday, March 10 <a href="https://actionnetwork.org/events/ccan-action-fund-an-evening-with-extinction-rebellion-dc">CCAN Action Fund: An Evening with Extinction Rebellion DC</a></strong>. 7:30 PM -- share the latest climate science, discuss some of the current psychology around climate change, and offer solutions through the study of social movements. At Elliott School of International Affairs, Room 113•1957 E St NW, Washington, DC 20052
+</p>
+<p>
+</p>
+<p> <em>Please add this to the “ALLIES” calendar in the appropriate date-place</em>
+</p>
+<p><strong>Tuesday, March 10 <a href="https://actionnetwork.org/events/ccan-action-fund-an-evening-with-extinction-rebellion-dc">CCAN Action Fund: An Evening with Extinction Rebellion DC</a></strong>. 7:30 PM -- share the latest climate science, discuss some of the current psychology around climate change, and offer solutions through the study of social movements. At Elliott School of International Affairs, Room 113•1957 E St NW, Washington, DC 20052
+</p>
+<hr>
 <h2>
     <font color="red"><br>
     </font>
