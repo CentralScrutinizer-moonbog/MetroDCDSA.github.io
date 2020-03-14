@@ -28,8 +28,8 @@ main:
     sublinks:
       - title: "Submissions"
         url: /categories/#washington-socialist
-      - title: "Subscribe*"
-        url: /
+      - title: "Subscribe"
+        url: "https://actionnetwork.org/forms/metro-dc-dsa-subscribe"
   - title: "Member Resources"
     sublinks:
       - title: "Red Desk"
